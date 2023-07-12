@@ -1,5 +1,5 @@
 # OneButton-osu!Server
-# ***WIP - NOT FULLY FUNCTIONAL*** <sup><sub>ETA: 7/16</sub></sup>
+# ***WIP - NOT FULLY FUNCTIONAL***  <font size="1">ETA: 7/16 for minimal working version</font>
 ## Description
 OneButton-osu!Server is a one-click solution to deploy an osu! server across any platform. With our easy-to-run script, setting up an osu! server has never been simpler or more accessible. No need for a domain or keys - simply execute the script, and your server is ready to go!
 
